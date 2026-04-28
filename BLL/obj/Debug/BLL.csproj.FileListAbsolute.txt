@@ -1,0 +1,9 @@
+D:\IntroTierEFCF\BLL\bin\Debug\BLL.dll
+D:\IntroTierEFCF\BLL\bin\Debug\BLL.pdb
+D:\IntroTierEFCF\BLL\bin\Debug\DAL.dll
+D:\IntroTierEFCF\BLL\bin\Debug\DAL.pdb
+D:\IntroTierEFCF\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\IntroTierEFCF\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\IntroTierEFCF\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\IntroTierEFCF\BLL\obj\Debug\BLL.dll
+D:\IntroTierEFCF\BLL\obj\Debug\BLL.pdb
