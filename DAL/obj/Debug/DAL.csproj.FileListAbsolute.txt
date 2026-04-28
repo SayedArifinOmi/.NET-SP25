@@ -1,0 +1,14 @@
+D:\IntroTierEFCF\DAL\bin\Debug\DAL.dll
+D:\IntroTierEFCF\DAL\bin\Debug\DAL.pdb
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.dll
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.pdb
+D:\IntroTierEFCF\DAL\bin\Debug\DAL.dll.config
+D:\IntroTierEFCF\DAL\bin\Debug\EntityFramework.dll
+D:\IntroTierEFCF\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\IntroTierEFCF\DAL\bin\Debug\EntityFramework.xml
+D:\IntroTierEFCF\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+D:\IntroTierEFCF\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
